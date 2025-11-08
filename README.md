@@ -1,4 +1,4 @@
-Iris Flower Classifier
+**Iris Flower Classifier**
 
 A **Streamlit web app** that predicts the species of **Iris flowers** using a **Random Forest Machine Learning model** based on sepal and petal measurements.
 
